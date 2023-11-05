@@ -8,7 +8,7 @@ This project is an analysis and classification task on loan data using Python an
 The project is structured as follows:
 
 - `loan_data.csv`: The dataset used for analysis and classification.
-- `loan_analysis.ipynb`: Jupyter Notebook containing the Python code for data analysis and classification.
+- `final_project_code.ipynb`: Jupyter Notebook containing the Python code for data analysis and classification.
 - `README.md`: This file.
 ## Getting Started
 
